@@ -1,5 +1,9 @@
-<h1 align="center">Hola 👋, soy Fredy Montaña</h1>
-<h3 align="center">Desarrollador junior Python en continuo aprendizaje</h3>
+<h1 align="center">Hi 👋, I'm Fredy Montaña</h1>
+<h3 align="center">Junior Python developer in continuous learning</h3>
+
+<p align="left">
+I really like software programming, for this reason I constantly study the technologies that catch my attention. I have taken several courses and I also practice what I have learned through personal projects. I am self-taught, dedicated and passionate about software. The projects that I share have been created with effort and dedication as I want to be very good in this profession.
+</p>
 
 - 🔭 I’m currently working on [Api Tienda Virtual](https://github.com/Fredymj07/VirtualStoreApi)
 
