@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Fredy Montaña</h1>
-<h3 align="center">Junior Python developer in continuous learning</h3>
+<h1 align="center">Hola 👋, soy Fredy Montaña</h1>
+<h3 align="center">Desarrollador Junior Java y Python en continuo aprendizaje</h3>
 
 <p align="left">
-I really like software programming, for this reason I constantly study the technologies that catch my attention. I have taken several courses and I also practice what I have learned through personal projects. I am self-taught, dedicated and passionate about software. The projects that I share have been created with effort and dedication as I want to be very good in this profession.
+Me gusta mucho la programación de software, por ello estudio constantemente las tecnologías que me llaman la atención. He realizado varios cursos y también practico lo aprendido a través de proyectos personales. Soy autodidacta, dedicado y apasionado por el software. Los proyectos que comparto han sido creados con esfuerzo y dedicación ya que quiero ser muy bueno en esta profesión.
 </p>
 
-- 🔭 I’m currently working on [Api Tienda Virtual](https://github.com/Fredymj07/VirtualStoreApi)
+- 🔭 Actualmente estoy trabajando en proyectos relacionados con el Bootcamp en Java que estoy estudiando.
 
-- 🌱 I’m currently learning desarrollo de Apis y vistas basadas en funciones **Django, Django Rest Framework**
+- 🌱 Estoy aprendiendo técnologías como Java, Spring Boot y Hibernate.
 
-- 👨‍💻 I’m looking for help with [https://github.com/Fredymj07?tab=repositories](https://github.com/Fredymj07?tab=repositories)
+- 📫 Me puedes contactar por medio de mi correo **jackalf7@gmail.com**
 
-- 💬 Ask me about **Python, Djando, Django Rest Framework, Flask**
-
-- 📫 How to reach me **jackalf7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo por medio de mis redes:</h3>
 <p align="left">
 <a href="https://dev.to/@fredymj07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@fredymj07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fredy-monta%c3%b1a-b09740127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredy-monta%c3%b1a-b09740127/" height="30" width="40" /></a>
