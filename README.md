@@ -14,7 +14,7 @@ Me gusta mucho la programación de software, por ello estudio constantemente las
 <h3 align="left">Conectate conmigo por medio de mis redes:</h3>
 <p align="left">
 <a href="https://dev.to/@fredymj07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@fredymj07" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/fredy-monta%c3%b1a-b09740127/](https://www.linkedin.com/in/fredy-germ%C3%A1n-monta%C3%B1a-am%C3%A9zquita-b09740127/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredy-monta%c3%b1a-b09740127/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fredy-germ%C3%A1n-monta%C3%B1a-am%C3%A9zquita-b09740127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredy-monta%c3%b1a-b09740127/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16918754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16918754" height="30" width="40" /></a>
 </p>
 
