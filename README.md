@@ -5,9 +5,9 @@
 Me gusta mucho la programación de software, por ello estudio constantemente las tecnologías que me llaman la atención. He realizado varios cursos y también practico lo aprendido a través de proyectos personales. Soy autodidacta, dedicado y apasionado por el software. Los proyectos que comparto han sido creados con esfuerzo y dedicación ya que quiero ser muy bueno en esta profesión.
 </p>
 
-- 🔭 Actualmente estoy trabajando en proyectos relacionados con el Bootcamp en Java que estoy estudiando.
-
 - 🌱 Estoy aprendiendo técnologías como Java, Spring Boot y Hibernate.
+
+- 🌱 Estoy aprendiendo técnologías como Python, Django y Django Rest Framework.
 
 - 📫 Me puedes contactar por medio de mi correo **jackalf7@gmail.com**
 
