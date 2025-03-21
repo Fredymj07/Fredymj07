@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, soy Fredy Montaña</h1>
-<h3 align="center">Desarrollador Junior Java y Python en continuo aprendizaje</h3>
+<h3 align="center">Tester Automation y Desarrollador Junior en continuo aprendizaje</h3>
 
 <p align="left">
 Me gusta mucho la programación de software, por ello estudio constantemente las tecnologías que me llaman la atención. He realizado varios cursos y también practico lo aprendido a través de proyectos personales. Soy autodidacta, dedicado y apasionado por el software. Los proyectos que comparto han sido creados con esfuerzo y dedicación ya que quiero ser muy bueno en esta profesión.
 </p>
+
+- 🌱 Estoy aprendiendo técnologías como Javascript, NodeJS y Express.
 
 - 🌱 Estoy aprendiendo técnologías como Java, Spring Boot y Hibernate.
 
